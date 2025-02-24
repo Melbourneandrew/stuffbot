@@ -5,7 +5,6 @@ __pycache__/
 *.pyd
 
 # Generated files
-*.png
 *.txt
 *.err
 *.log
@@ -22,6 +21,7 @@ pwm-pi5.dtbo
 
 node_modules
 detected_objects/*
+images
 detection_run_2025-02-09_10-40-33
 stuff_test_images
 venv
