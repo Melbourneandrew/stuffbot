@@ -15,7 +15,7 @@ from lib.odrive_uart import ODriveUART
 # Constants
 MQTT_BROKER_ADDRESS = "localhost"
 MQTT_TOPIC = "robot/drive"
-LINEAR_SPEED = 0.2
+LINEAR_SPEED = 0.4
 ANGULAR_SPEED = 1.2
 WHEEL_BASE = 0.4
 
